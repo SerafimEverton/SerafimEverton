@@ -24,5 +24,19 @@
   
 - ⚡ Não gosto de Futebol
 
+  ## Status
+
+<div align="center">
+  
+  [![Status do perfil SerafimEverton](https://github-readme-stats.vercel.app/api?username=SerafimEverton&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/SerafimEverton/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerafimEverton&theme=dracula&layout=compact)](https://github.com/SerafimEverton/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SerafimEverton&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=serafimEverton&theme=onedark&rank=C,B,A,AA,AAA,S&margin-w=15&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 
